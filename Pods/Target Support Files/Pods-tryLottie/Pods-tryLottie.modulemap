@@ -1,0 +1,6 @@
+module Pods_tryLottie {
+  umbrella header "Pods-tryLottie-umbrella.h"
+
+  export *
+  module * { export * }
+}
